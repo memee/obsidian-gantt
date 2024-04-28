@@ -7,11 +7,11 @@ A plugin that adds some project management utilities.
 Make a code block and use `gantt` as the style.
 In the block, write your Dataview query
 
-```sh
-\```gantt
+~~~sh
+```gantt
 #project/tasks
-\```
 ```
+~~~
 
 ## Notes
 
